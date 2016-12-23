@@ -1,4 +1,4 @@
-# R_sentiment
+# R_twitter_sentiment
 
 The following script ("sentiment.R") for R installs dependencies, creates OAuth authentication handshake, and performs a geolocation search based on search terms, resulting in a DataFrame.  The text field is then parsed using the syuzhet R package, and appended with sentiment values.  The resulting dataframe can be exported to a CSV, then transformed into a shapefile.
 
